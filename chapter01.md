@@ -47,7 +47,7 @@ Both techniques will produce this file:
     line two
     line three
     
- To creat an empty file, you would use the touch command.
+ To creat an empty file, you would use the *touch* command.
  
     $ touch myfile
     
