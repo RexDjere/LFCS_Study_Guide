@@ -46,6 +46,13 @@ Both techniques will produce this file:
     line one
     line two
     line three
+    
+ To creat an empty file, you would use the touch command.
+ 
+    $ touch myfile
+    
+ The command above will create an empty file named "myfile".
+    
 
 #### sudo
 
