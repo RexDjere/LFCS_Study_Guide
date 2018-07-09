@@ -4,23 +4,23 @@ This is imperfect studying material. It is solely designed for assisting in brea
 
 Much of this content has been collected from the Linux Foundation and the edX LFS101 course. Some has just been acquired from scrounging around the web over the years.
 
-* [Chapter 1](chapter1.md)
+* [Chapter 01](chapter01.md)
   * Command line and file manipulation
-* [Chapter 2](chapter2.md)
+* [Chapter 02](chapter02.md)
   * RAID
-* [Chapter 3](chapter3.md)
+* [Chapter 03](chapter03.md)
   * Encryption and swap
-* [Chapter 4](chapter4.md)
+* [Chapter 04](chapter04.md)
   * File attributes
-* [Chapter 5](chapter5.md)
+* [Chapter 05](chapter05.md)
   * Finding files on the filesystem
-* [Chapter 6](chapter6.md)
+* [Chapter 06](chapter06.md)
   * Filesystems
-* [Chapter 7](chapter7.md)
+* [Chapter 07](chapter07.md)
   * LVM
-* [Chapter 8](chapter8.md)
+* [Chapter 08](chapter08.md)
   * Backups
-* [Chapter 9](chapter9.md)
+* [Chapter 09](chapter09.md)
   * Users and Groups
 * [Chapter 10](chapter10.md)
   * Processes
